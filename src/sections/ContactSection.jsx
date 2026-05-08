@@ -8,19 +8,19 @@ const contactItems = [
   {
     icon: <Mail size={20} strokeWidth={1.5} />,
     label: 'Email',
-    value: 'igkp2004@gmail.com',
+    //value: 'igkp2004@gmail.com',
     href: 'mailto:igkp2004@gmail.com',
   },
   {
     icon: <Link2 size={20} strokeWidth={1.5} />,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/ishwari',
+    //value: 'linkedin.com/in/ishwari',
     href: 'http://linkedin.com/in/ishwari-pusadkar-3a969228b',
   },
   {
     icon: <Code2 size={20} strokeWidth={1.5} />,
     label: 'GitHub',
-    value: 'github.com/ishwari',
+    //value: 'github.com/ishwari',
     href: 'https://github.com/ishwari03',
   },
 ];
